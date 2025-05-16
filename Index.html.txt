@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Adobe Stock Prediction - March 2022 </title>
+</head>
+<body>
+
+  <h1>My PDF Document</h1>
+  <embed src="Adobe_Stock_Prediction_Report.pdf" type="application/pdf" width="800px" height="600px" />
+
+</body>
+</html>
